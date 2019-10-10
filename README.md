@@ -1,4 +1,4 @@
-DE4 Opti Coursework 2018/19: Code Submission
+DE4 Opti Coursework 2019/20: Code Submission
 ============
 This repository is a simple example/shell of how we expect the source code for
 your coursework to be submitted. 
@@ -8,7 +8,7 @@ Instructions
 
 **All submissions should be via e-mail with link to a git repository that can be cloned.**
 
-**The deadline for source code submission is 4pm on Friday 14th December**
+**The deadline for source code submission is 4pm on Friday 13th December**
 
 Ensure that your code can be executed to reproduce the numerical (where
 deterministic, otherwise explained) and graphical results provided in your
@@ -20,6 +20,8 @@ Directory Structure
 1. System
 2. Subsystem_1
 3. Subsystem_2
+4. Subsystem_3
+5. Subsystem_4 
 
 The System directory should contain all necessary code and files to reproduce
 the results presented for the System optimisation (i.e. Group). 
@@ -55,7 +57,7 @@ If you choose to do this, we also recommend that you upload a copy of your final
 report to your public repository to place everything in context.
 
 If you would prefer your project to be private, please create a private git repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
-and [Nan](<mailto:n.li09@imperial.ac.uk>).
+and [Michel](<mailto:m.cardin@imperial.ac.uk>).
 
 In the case of a private repository, you may still include additional material
 in support of your project.
